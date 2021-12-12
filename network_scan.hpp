@@ -20,6 +20,7 @@ public:
 					devices.emplace_back(ip);
 					p = 1023;
 				}
+                                sock.clean_up()
 			}
 		}
 		return(devices);
