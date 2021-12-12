@@ -17,9 +17,4 @@ The Ascii Art is made with: https://patorjk.com/software/taag/
 
 ### Dependencies
 This Sowtware is using https://github.com/Terraminator/Easy_Sock.
-
-### Disclaimer
-This software is only intended for learning purposes and I do not take any responsibility for misuse. 
-
-This repository is for academic purposes, the use of this software is your responsibility.
-
+ 
