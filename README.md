@@ -16,5 +16,6 @@ First of all you have to compile the script just open the .sln file with Visual 
 The Ascii Art is made with: https://patorjk.com/software/taag/
 
 ### Dependencies
-This Sowtware is using https://github.com/Terraminator/Easy_Sock.
+This Sowtware is using https://github.com/Terraminator/Easy_Sock and 
+https://github.com/Terraminator/Thread_Pool
  

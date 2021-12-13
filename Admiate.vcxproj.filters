@@ -26,5 +26,8 @@
     <ClInclude Include="EasySock.hpp">
       <Filter>Ressourcendateien</Filter>
     </ClInclude>
+    <ClInclude Include="Thread_Pool.hpp">
+      <Filter>Ressourcendateien</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

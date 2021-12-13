@@ -144,6 +144,7 @@
   <ItemGroup>
     <ClInclude Include="EasySock.hpp" />
     <ClInclude Include="network_scan.hpp" />
+    <ClInclude Include="Thread_Pool.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
