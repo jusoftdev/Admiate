@@ -1,4 +1,5 @@
 #include "network_scan.hpp"
+#include "gui_api.hpp"
 
 
 int main() {
